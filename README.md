@@ -1,2 +1,2 @@
 # library-projet
-code source library stock management by Admin
+code source library stock management by Ali_cherif28
